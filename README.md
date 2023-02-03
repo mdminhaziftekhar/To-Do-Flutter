@@ -2,6 +2,9 @@
 
 It is a simple todo app. Written using flutter and Hive
 
+## Download the app
+LINK: https://drive.google.com/drive/folders/1OIulGKsUlL2hpwd5EFoxWby3-8wckLbm?usp=sharing
+
 ## Features
 
 1. Add your todo tasks
